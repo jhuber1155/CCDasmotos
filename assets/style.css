@@ -1,0 +1,18 @@
+
+
+h1{
+    background-image: url("./images/pattern.webp");
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+#brushes{
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(86, 218, 150);
+}
